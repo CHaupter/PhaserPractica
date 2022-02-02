@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "mummy_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_0"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_1"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_2"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_3"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_4"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_5"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_6"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_7"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_8"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_9"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_10"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_11"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_12"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_13"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_14"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_15"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_16"
+                },
+                {
+                    "key": "mummy",
+                    "frame": "metalslug_mummy_17"
+                }
+            ]
+        }
+    ]
+}

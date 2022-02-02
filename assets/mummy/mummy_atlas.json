@@ -1,0 +1,333 @@
+{
+    "frames": [
+        {
+            "filename": "metalslug_mummy37x45_0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_1",
+            "frame": {
+                "x": 37,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_2",
+            "frame": {
+                "x": 74,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_3",
+            "frame": {
+                "x": 111,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_4",
+            "frame": {
+                "x": 148,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_5",
+            "frame": {
+                "x": 185,
+                "y": 0,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_6",
+            "frame": {
+                "x": 0,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_7",
+            "frame": {
+                "x": 37,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_8",
+            "frame": {
+                "x": 74,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_9",
+            "frame": {
+                "x": 111,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_10",
+            "frame": {
+                "x": 148,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_11",
+            "frame": {
+                "x": 185,
+                "y": 45,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_12",
+            "frame": {
+                "x": 0,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_13",
+            "frame": {
+                "x": 37,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_14",
+            "frame": {
+                "x": 74,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_15",
+            "frame": {
+                "x": 111,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_16",
+            "frame": {
+                "x": 148,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_17",
+            "frame": {
+                "x": 185,
+                "y": 90,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_18",
+            "frame": {
+                "x": 0,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_19",
+            "frame": {
+                "x": 37,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_20",
+            "frame": {
+                "x": 74,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_21",
+            "frame": {
+                "x": 111,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_22",
+            "frame": {
+                "x": 148,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_23",
+            "frame": {
+                "x": 185,
+                "y": 135,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "metalslug_mummy_24",
+            "frame": {
+                "x": 0,
+                "y": 180,
+                "w": 37,
+                "h": 45
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
